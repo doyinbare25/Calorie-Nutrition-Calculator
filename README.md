@@ -31,12 +31,13 @@ The `nutrition.json` dataset contains nutritional information for various food i
 | `carbohydrate`| Carbohydrate content (grams per 100 grams)            |
 | `sugars`      | Sugars content (grams per 100 grams)                  |
 
-##Tech Stack
+## Tech Stack
 
 Python - for building the application and performing calculations
 JSON - for reading and processing the nutrition data
 
-##Learning Points
+## Learning Points
+
 -Developed skills in working with Python for data-driven applications
 -Practiced handling dictionaries and user input
 -Gained experience in building practical features for health-focused applications
